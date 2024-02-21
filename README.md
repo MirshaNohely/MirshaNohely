@@ -9,7 +9,11 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab,postman,docker,androidstudio,arduino,atom,azure,eclipse,figma,gcp,gradle,maven,idea,jenkins,mysql,nodejs,matlab,unity,maya,ps" />
+  </a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
