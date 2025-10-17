@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hi , I'm Nohely </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNqdTM1aHYwY29rMmMxeWl2czE1OHRvejJsbTQxdjRtOW5vMm4xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vL8jVjKkqbVh2qdFj0/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/MirshaNohely/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4886F7&width=441&lines=I+code+to+create,+connect,+and+protect+—+blending+technology,+security,+and+passion+into+every+project" alt="Typing SVG" /></a>
+  <a href="https://github.com/MirshaNohely/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4886F7&width=441&lines=I+code+to+create,+connect,and+protect;blending+technology,+security,+and+passion+into+every+project" alt="Typing SVG" /></a>
 </p>
 
 <br>
