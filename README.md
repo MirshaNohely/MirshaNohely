@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><b>Hi , I'm Nohely </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNqdTM1aHYwY29rMmMxeWl2czE1OHRvejJsbTQxdjRtOW5vMm4xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vL8jVjKkqbVh2qdFj0/giphy.gif]" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Nohely </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNqdTM1aHYwY29rMmMxeWl2czE1OHRvejJsbTQxdjRtOW5vMm4xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vL8jVjKkqbVh2qdFj0/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/MirshaNohely/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4886F7&width=441&lines=Computer+Engineer;Full+Stack+Developer;Passionate+about+technology;Passionate+about+security;Creating+digital+solutions;Freelance" alt="Typing SVG" /></a>
